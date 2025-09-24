@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://chaofanggrp.github.io/cfgrp.github.io//sitemap.xml
+Sitemap: cfgrp.github.io//sitemap.xml
