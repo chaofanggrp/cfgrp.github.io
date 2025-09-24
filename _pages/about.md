@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. W4 L6 605   HKUST(GZ)   chaofang@hkust-gz.edu.cn
 
 profile:
   align: right
